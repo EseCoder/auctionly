@@ -1,2 +1,2 @@
-# auctionly
-A standalone Android auction system
+# Auctionly
+A standalone Android auction system with various Android technologies.
